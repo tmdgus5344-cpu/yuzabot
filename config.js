@@ -36,10 +36,11 @@ const CONFIG = {
 
   // 꾸미기 (웹 교재 꾸미기 페이지에서 고른 값)
   theme: {
-    color: "#2563eb",
-    avatar: "",
-    header: "line",
-    background: "plain",
-    bubble: "round"
+    color: "#f59e0b",
+    avatar: "🍊",
+    header: "color",
+    background: "wave",
+    bubble: "square"
   }
 };
+
